@@ -96,7 +96,8 @@
     border-color: none;
     background-image: url(../../images/download.png) ;
     box-shadow: none;
-    padding: 50px 150px;
+    width: 300px;
+     height: 100px;
     color: #fffff; }
 
 .btn-secondary {
