@@ -93,7 +93,7 @@
     border-color: #a07e49 !important;
     opacity: 0.85; }
   .btn-download {
-    border-color: #c0a375;
+    border-color: none;
     background-image: url(../../images/download.png) ;
     box-shadow: none;
     padding: 50px 150px;
