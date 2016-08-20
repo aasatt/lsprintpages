@@ -85,13 +85,19 @@
     color: #fff;
     background-color: #a07e49;
     border-color: #a07e49;
-    background-image: none;
+    background-image: url(../../images/download.png) no-repeat;
     box-shadow: none; }
   .btn-primary.disabled, .btn-primary:disabled {
     color: #fff !important;
     background-color: #a07e49 !important;
     border-color: #a07e49 !important;
     opacity: 0.85; }
+  .btn-download {
+    border-color: #c0a375;
+    background-image: url(../../images/download.png) ;
+    box-shadow: none;
+    padding: 50px 150px;
+    color: #fffff; }
 
 .btn-secondary {
   background-color: #bfcecb;
