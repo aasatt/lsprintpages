@@ -2,4 +2,11 @@
    "webcredentials": {
        "apps": ["ELS928CTMQ.com.aasatt.LiveStudioPrint"]
     }
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "ELS928CTMQ.com.aasatt.LiveStudioPrint",
+            "paths": ["/auth/action"]
+            }]
+    }
 }
