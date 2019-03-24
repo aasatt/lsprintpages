@@ -6,7 +6,7 @@
         "apps": [],
         "details": [{
             "appID": "ELS928CTMQ.com.aasatt.LiveStudioPrint",
-            "paths": ["/auth/action?*"]
+            "paths": ["/auth/*"]
             }]
     }
 }
